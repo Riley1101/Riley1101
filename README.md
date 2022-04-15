@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [arkardev.space](https://arkardev.space)
 
-- 💬 Ask me about **Next,React,CSS and frontend development**
+- 💬 Ask me about **Next.js ,React ,CSS and frontend development**
 
 - 📫 How to reach me **arkarkaungmyat00@gmail.com**
 
