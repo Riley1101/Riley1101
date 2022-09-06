@@ -47,7 +47,7 @@ You can find me on Youtube
 - 🔭 I’m currently working on [Reading Books](https://github.com/deep5050/HighlightedCS)
   
 
-- 🌱 I’m currently learning Machine Learning and Data Strucutres
+- 🌱 I’m currently learning Machine Learning and Data Structures
   
 
 - ❓ Ask me about anything related to web development  related technologies  
