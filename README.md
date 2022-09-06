@@ -44,10 +44,10 @@ You can find me on Youtube
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Youtube](https://www.youtube.com/channel/UC_RfEQCC3gL2AzsFFAABikg)  
+- 🔭 I’m currently working on [Reading Books](https://github.com/deep5050/HighlightedCS)
   
 
-- 🌱 I’m currently learning Svelte and Design Systems  
+- 🌱 I’m currently learning Machine Learning and Data Strucutres
   
 
 - ❓ Ask me about anything related to web development  related technologies  
