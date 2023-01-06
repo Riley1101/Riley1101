@@ -129,6 +129,8 @@ You can find me on Youtube
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Riley1101&&style=flat-square" align="center" />
 </div>  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
   
 
 <br/>  
