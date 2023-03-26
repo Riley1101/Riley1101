@@ -130,19 +130,4 @@ You can find me on Youtube
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-New Riley1101/Riley1101 is now a special repository: its README.md will appear on your profile!
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Riley1101/README.md at 60857af6ee4b8e9f3b6157d0776551a830e64481 · Riley1101/Riley1101
+
