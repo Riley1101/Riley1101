@@ -1,4 +1,35 @@
-## Hey 👋, I'm Arkar Kaung Myat !  
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Riley1101 
+Riley1101
+/
+Riley1101
+Public
+Fork your own copy of Riley1101/Riley1101
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Riley1101/README.md
+@Riley1101
+Riley1101 testing dev to card
+Latest commit 60857af 2 hours ago
+ History
+ 1 contributor
+133 lines (93 sloc)  7.45 KB
+
+## Hey 👋, I'm Dev!  
   
 
 <a href="https://github.com/Riley1101" target="_blank">
@@ -27,7 +58,7 @@
 
 
 ### Glad to see you here!  
-Hey I’m Arkar Kaung Myat , an inspiring frontend developer.
+Hey I’m Arkar Dev , an inspiring frontend developer.
 
 I am available if you are looking for something special in
 
@@ -42,12 +73,14 @@ You can find me on Youtube
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Reading Books](https://github.com/deep5050/HighlightedCS)
   
 
-- 🌱 I’m currently learning Machine Learning and Data Structures
+- 🌱 I’m currently learning Data Structures
   
 
 - ❓ Ask me about anything related to web development  related technologies  
@@ -106,22 +139,41 @@ You can find me on Youtube
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" />  
 </div>  
 
+<br/>  
 
-<table><tr><td valign="top" width="50%">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
 
-</td><td valign="top" width="50%">
-<div align="center">
-<a href="https://app.daily.dev/Riley1101"><img src="https://api.daily.dev/devcards/5fd94f5b1c5f4a5b838df0615cf68376.png?r=o4n" width="100%" alt="Riley's Dev Card"/></a>
-</div>  
-</td></tr></table>  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
+  
+
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Riley1101&&style=flat-square" align="center" />
+
 </div>  
+
+
+
+<br/>  
+
 
 <br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+New Riley1101/Riley1101 is now a special repository: its README.md will appear on your profile!
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Riley1101/README.md at 60857af6ee4b8e9f3b6157d0776551a830e64481 · Riley1101/Riley1101
