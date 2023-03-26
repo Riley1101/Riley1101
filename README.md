@@ -106,26 +106,20 @@ You can find me on Youtube
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" />  
 </div>  
 
-<br/>  
 
+<table><tr><td valign="top" width="50%">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
-  
-
+</td><td valign="top" width="50%">
+<div align="center">
+<a href="https://app.daily.dev/Riley1101"><img src="https://api.daily.dev/devcards/5fd94f5b1c5f4a5b838df0615cf68376.png?r=o4n" width="100%" alt="Riley's Dev Card"/></a>
+</div>  
+</td></tr></table>  
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Riley1101&&style=flat-square" align="center" />
-
 </div>  
-<div align="center">
-<a href="https://app.daily.dev/Riley1101"><img src="https://api.daily.dev/devcards/5fd94f5b1c5f4a5b838df0615cf68376.png?r=o4n" width="400" alt="Riley's Dev Card"/></a>
-</div>  
-
-
-
-<br/>  
-
 
 <br />
 
