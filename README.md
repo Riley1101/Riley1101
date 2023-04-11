@@ -31,8 +31,8 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 <br/>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:BLOCKS-->
+<!--END_SECTION:BLOCKS-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
   
