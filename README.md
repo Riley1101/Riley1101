@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
-
+[![wakatime](https://wakatime.com/badge/user/cf23b6e3-75f8-4c04-b0e3-273191c8d2ec.svg)](https://wakatime.com/@cf23b6e3-75f8-4c04-b0e3-273191c8d2ec)
 
 
 ### Glad to see you here!  
