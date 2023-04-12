@@ -34,12 +34,20 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <!--START_SECTION:waka-->
 
 ```text
+From: 11 April 2023 - To: 12 April 2023
+
+Total Time: 4 hrs 5 mins
+
 TypeScript     3 hrs 5 mins    ███████████████████░░░░░░   75.58 %
 YAML           16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 Astro          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 MDX            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 Markdown       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 Python         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Lua            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+netrw          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
