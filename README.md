@@ -32,6 +32,16 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript     3 hrs 5 mins    ███████████████████░░░░░░   75.58 %
+YAML           16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Astro          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+MDX            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Markdown       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Python         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+```
+
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
