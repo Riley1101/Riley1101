@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Arkar Dev!  
 
-An inspiring dev who love coding and design.
+An inspiring dev who love problem solving, coding and design.
 
 <a href="https://github.com/Riley1101" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
