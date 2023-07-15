@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
 
@@ -45,7 +45,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 84 Public Repositories 
+> 📜 83 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -76,17 +76,17 @@ Sunday                   772 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               9 hrs 45 mins       ██████████████░░░░░░░░░░░   56.47 % 
-Svelte                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-i3config                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+TypeScript               8 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
+JavaScript               3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+JSON                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Svelte                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+i3config                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 17 mins      █████████████████████████   100.00 % 
+Neovim                   19 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2023 18:39:24 UTC
+ Last Updated on 15/07/2023 18:37:32 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
