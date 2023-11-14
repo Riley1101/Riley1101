@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.4%20million%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,563 Contributions in the Year 2023
+> 🏆 1,564 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,17 +76,17 @@ Sunday                   1161 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Go                       2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Docker                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-YAML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Svelte                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+TypeScript               2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Go                       2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+CSS                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Docker                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 14 mins      █████████████████████████   100.00 % 
+Neovim                   13 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2023 18:40:27 UTC
+ Last Updated on 14/11/2023 18:39:35 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
