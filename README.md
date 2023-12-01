@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.6%20million%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,681 Contributions in the Year 2023
+> 🏆 1,682 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,7 +54,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 ```text
 🌞 Morning                3386 commits        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
 🌆 Daytime                3980 commits        █████████░░░░░░░░░░░░░░░░   34.88 % 
-🌃 Evening                2850 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+🌃 Evening                2851 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 🌙 Night                  1195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -63,7 +63,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 Monday                   1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Tuesday                  2029 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 Wednesday                1363 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 1129 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Thursday                 1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 Friday                   2135 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
 Saturday                 1706 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 Sunday                   1215 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
@@ -106,7 +106,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 18:40:22 UTC
+ Last Updated on 01/12/2023 18:39:42 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
