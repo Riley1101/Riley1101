@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.6%20million%20lines%20of%20code-blue)
 
@@ -49,46 +49,6 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3384 commits        ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-🌆 Daytime                3951 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
-🌃 Evening                2856 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌙 Night                  1196 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1827 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  2030 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                1331 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Thursday                 1126 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Friday                   2135 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Saturday                 1718 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Sunday                   1220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Svelte                   9 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.12 % 
-Go                       5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-TypeScript               2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-C                        1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-netrw                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-
-🔥 Editors: 
-Neovim                   21 hrs 24 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    21 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +66,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:40:06 UTC
+ Last Updated on 06/12/2023 18:41:34 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
