@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.4%20million%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,714 Contributions in the Year 2023
+> 🏆 1,715 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,21 +52,21 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3411 commits        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌆 Daytime                4051 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌃 Evening                3013 commits        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-🌙 Night                  1196 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌞 Morning                3421 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌆 Daytime                4074 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌃 Evening                3020 commits        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+🌙 Night                  1196 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1891 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Tuesday                  2089 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Wednesday                1381 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 1171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Friday                   2179 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Saturday                 1742 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Sunday                   1218 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Monday                   1894 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  2099 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Wednesday                1383 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Friday                   2186 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Saturday                 1743 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Sunday                   1221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 ```
 
 
@@ -106,7 +106,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 18:41:39 UTC
+ Last Updated on 08/12/2023 18:41:10 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
