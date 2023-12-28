@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.6%20million%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,748 Contributions in the Year 2023
+> 🏆 1,749 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,10 +60,10 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Monday                   1951 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 Tuesday                  2157 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 Wednesday                1426 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 1220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Thursday                 1221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 Friday                   2249 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
 Saturday                 1794 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 Sunday                   1258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
@@ -76,17 +76,17 @@ Sunday                   1258 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       █████████████░░░░░░░░░░░░   52.73 % 
-Go                       2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-netrw                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Go                       2 hrs 25 mins       █████████████████████░░░░   83.52 % 
+Cheetah                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 13 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ C                        4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2023 18:39:15 UTC
+ Last Updated on 28/12/2023 18:39:15 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
