@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
 
@@ -41,11 +41,11 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2024
+> 🏆 174 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 116 Public Repositories 
+> 📜 117 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -76,17 +76,17 @@ Sunday                   1282 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               14 hrs 54 mins      ██████████████░░░░░░░░░░░   56.30 % 
-JavaScript               3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Docker                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-CSS                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TypeScript               8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.95 % 
+JavaScript               4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Docker                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-Neovim                   26 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   20 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2024 18:42:08 UTC
+ Last Updated on 19/01/2024 18:41:52 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
