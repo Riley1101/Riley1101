@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
 
@@ -76,17 +76,17 @@ Sunday                   1282 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               9 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.39 % 
-JavaScript               6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-Docker                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               6 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+JavaScript               5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Svelte                   5 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Docker                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 21 mins      █████████████████████████   100.00 % 
+Neovim                   25 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2024 18:39:20 UTC
+ Last Updated on 21/01/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
