@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
@@ -76,13 +76,17 @@ Sunday                   1398 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   25 mins             ███████████░░░░░░░░░░░░░░   44.35 % 
+Other                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+netrw                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +106,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2024 18:40:32 UTC
+ Last Updated on 04/03/2024 18:40:55 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
