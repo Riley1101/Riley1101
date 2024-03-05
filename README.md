@@ -33,7 +33,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Hey I’m Arkar Dev , an inspiring web developer who loves coding, problem solvi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 337 Contributions in the Year 2024
+> 🏆 342 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,17 +76,17 @@ Sunday                   1398 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Svelte                   25 mins             ███████████░░░░░░░░░░░░░░   44.35 % 
-Other                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-netrw                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Svelte                   25 mins             █████████░░░░░░░░░░░░░░░░   37.87 % 
+Other                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+TypeScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+netrw                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Neovim                   58 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2024 18:40:55 UTC
+ Last Updated on 05/03/2024 18:40:56 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
