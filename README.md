@@ -28,9 +28,11 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 363 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 121 Public Repositories 
+> 📜 122 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -38,8 +40,8 @@ An inspiring dev who love problem solving, coding and design.
 
 ```text
 🌞 Morning                4215 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌆 Daytime                6501 commits        ██████████░░░░░░░░░░░░░░░   38.49 % 
-🌃 Evening                4709 commits        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+🌆 Daytime                6501 commits        ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌃 Evening                4713 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
 🌙 Night                  1466 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -47,9 +49,9 @@ An inspiring dev who love problem solving, coding and design.
 ```text
 Monday                   2831 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 Tuesday                  3034 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Wednesday                2514 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Thursday                 1766 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Friday                   2952 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Wednesday                2518 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 1766 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Friday                   2952 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 Saturday                 2353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 Sunday                   1441 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 ```
@@ -87,7 +89,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 18:40:13 UTC
+ Last Updated on 02/05/2024 18:40:55 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
