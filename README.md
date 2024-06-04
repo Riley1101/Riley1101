@@ -28,8 +28,6 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 392 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 122 Public Repositories 
@@ -40,14 +38,14 @@ An inspiring dev who love problem solving, coding and design.
 
 ```text
 🌞 Morning                4214 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                6443 commits        ██████████░░░░░░░░░░░░░░░   38.22 % 
+🌆 Daytime                6442 commits        ██████████░░░░░░░░░░░░░░░   38.22 % 
 🌃 Evening                4734 commits        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
 🌙 Night                  1466 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2822 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Monday                   2821 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Tuesday                  3038 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 Wednesday                2464 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Thursday                 1761 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
@@ -89,7 +87,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 18:43:52 UTC
+ Last Updated on 04/06/2024 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
