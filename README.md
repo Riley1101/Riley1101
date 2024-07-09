@@ -28,8 +28,6 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 480 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 123 Public Repositories 
@@ -93,7 +91,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2024 18:44:06 UTC
+ Last Updated on 09/07/2024 18:44:15 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
