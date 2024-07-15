@@ -20,13 +20,15 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 484 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,11 +63,11 @@ Sunday                   1580 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     3 hrs 6 mins        █████████████████████░░░░   85.87 % 
-conf                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-netrw                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Rust                     3 hrs 6 mins        ██████████████████████░░░   86.04 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+conf                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+netrw                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
 Neovim                   3 hrs 36 mins       █████████████████████████   100.00 % 
@@ -91,7 +93,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 18:54:17 UTC
+ Last Updated on 15/07/2024 18:44:25 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
