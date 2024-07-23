@@ -20,15 +20,13 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 502 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +61,17 @@ Sunday                   1582 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     9 hrs 10 mins       ████████████████░░░░░░░░░   64.96 % 
-HTML                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-netrw                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Rust                     7 hrs 25 mins       █████████████████░░░░░░░░   66.06 % 
+HTML                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+netrw                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   11 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +91,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 18:45:05 UTC
+ Last Updated on 23/07/2024 18:43:03 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
