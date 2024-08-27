@@ -20,13 +20,15 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 536 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,18 +41,18 @@ An inspiring dev who love problem solving, coding and design.
 ```text
 🌞 Morning                4545 commits        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
 🌆 Daytime                7198 commits        ██████████░░░░░░░░░░░░░░░   38.14 % 
-🌃 Evening                5500 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌃 Evening                5501 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
 🌙 Night                  1630 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Monday                   3133 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 Tuesday                  3358 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 Wednesday                2821 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 Thursday                 1950 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Friday                   3300 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Saturday                 2713 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   3300 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Saturday                 2713 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Sunday                   1599 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
 
@@ -61,13 +63,17 @@ Sunday                   1599 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+swayconfig               17 mins             ███████████████████░░░░░░   74.16 % 
+Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +93,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2024 18:45:46 UTC
+ Last Updated on 27/08/2024 18:45:42 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
