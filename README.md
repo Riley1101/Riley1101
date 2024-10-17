@@ -28,9 +28,11 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 607 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 128 Public Repositories 
+> 📜 129 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -77,10 +79,10 @@ Linux                    6 hrs 5 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               30 repos            █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-CSS                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               30 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+CSS                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 EJS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
@@ -91,7 +93,7 @@ EJS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2024 18:48:43 UTC
+ Last Updated on 17/10/2024 18:50:26 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
