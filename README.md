@@ -20,15 +20,13 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 673 Contributions in the Year 2024
+> 🏆 675 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,46 +34,6 @@ An inspiring dev who love problem solving, coding and design.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4642 commits        ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-🌆 Daytime                7425 commits        ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌃 Evening                5689 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌙 Night                  1669 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3231 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Tuesday                  3428 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Wednesday                2897 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Thursday                 2008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   3372 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Saturday                 2814 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Sunday                   1675 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-JavaScript               9 hrs 5 mins        ██████████████████░░░░░░░   73.01 % 
-TypeScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-netrw                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-
-🔥 Editors: 
-Neovim                   12 hrs 27 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    12 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +51,7 @@ EJS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:49:26 UTC
+ Last Updated on 10/11/2024 18:48:20 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
