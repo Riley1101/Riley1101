@@ -20,7 +20,7 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C178%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
 
@@ -63,17 +63,17 @@ Sunday                   1688 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     11 hrs 35 mins      ███████████████░░░░░░░░░░   61.62 % 
-TypeScript               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-netrw                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Rust                     11 hrs 51 mins      █████████████████░░░░░░░░   66.86 % 
+TypeScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+netrw                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 48 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ EJS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2024 19:14:39 UTC
+ Last Updated on 27/11/2024 19:12:51 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
