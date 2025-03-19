@@ -20,7 +20,7 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.9%20million%20lines%20of%20code-blue)
 
@@ -63,17 +63,17 @@ Sunday                   1935 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 hrs 9 mins       █████████████████░░░░░░░░   69.71 % 
-netrw                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+TypeScript               10 hrs 51 mins      █████████████████░░░░░░░░   68.02 % 
+netrw                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 Docker                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Neovim                   16 hrs              █████████████████████████   100.00 % 
+Neovim                   15 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs              █████████████████████████   100.00 % 
+Linux                    15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ Nix                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2025 19:22:58 UTC
+ Last Updated on 19/03/2025 19:23:22 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
