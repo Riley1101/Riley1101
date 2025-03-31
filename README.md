@@ -28,11 +28,11 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2025
+> 🏆 242 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 140 Public Repositories 
+> 📜 141 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -63,17 +63,17 @@ Sunday                   1972 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 19 mins       ███████████████░░░░░░░░░░   59.77 % 
-TypeScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-netrw                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+TypeScript               3 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.13 % 
+JavaScript               2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Rust                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+netrw                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 54 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ Nix                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 19:19:32 UTC
+ Last Updated on 31/03/2025 19:25:23 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
