@@ -20,7 +20,7 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.0%20million%20lines%20of%20code-blue)
 
@@ -28,7 +28,7 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 256 Contributions in the Year 2025
+> 🏆 257 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday                   1972 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.99 % 
-JavaScript               2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-netrw                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+TypeScript               4 hrs 58 mins       ██████████████░░░░░░░░░░░   57.97 % 
+JavaScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+netrw                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Rust                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 26 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ Nix                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 19:24:18 UTC
+ Last Updated on 02/04/2025 19:24:44 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
