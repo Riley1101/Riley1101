@@ -28,8 +28,6 @@ An inspiring dev who love problem solving, coding and design.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 546 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 146 Public Repositories 
@@ -89,7 +87,7 @@ MDX                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 19:45:40 UTC
+ Last Updated on 29/07/2025 19:42:13 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
