@@ -22,11 +22,13 @@ An inspiring dev who love problem solving, coding and design.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2020%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 557 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,7 +40,7 @@ An inspiring dev who love problem solving, coding and design.
 
 ```text
 🌞 Morning                6168 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 Daytime                10835 commits       █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌆 Daytime                10836 commits       █████████░░░░░░░░░░░░░░░░   35.60 % 
 🌃 Evening                10973 commits       █████████░░░░░░░░░░░░░░░░   36.05 % 
 🌙 Night                  2463 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 ```
@@ -50,7 +52,7 @@ Tuesday                  5082 commits        ████░░░░░░░�
 Wednesday                4170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Thursday                 3744 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Friday                   5842 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Saturday                 3987 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 3988 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Sunday                   3132 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ```
 
@@ -87,7 +89,7 @@ MDX                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 19:40:45 UTC
+ Last Updated on 02/08/2025 19:39:14 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
