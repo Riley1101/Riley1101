@@ -20,15 +20,13 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 622 Contributions in the Year 2025
+> 🏆 628 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,50 +34,14 @@ An inspiring dev who love problem solving, coding and design.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6090 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌆 Daytime                10722 commits       █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌃 Evening                10741 commits       █████████░░░░░░░░░░░░░░░░   36.00 % 
-🌙 Night                  2279 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   4417 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  4972 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                4084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 3699 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Friday                   5877 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Saturday                 3905 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Sunday                   2878 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               72 repos            █████████░░░░░░░░░░░░░░░░   37.11 % 
-TypeScript               44 repos            ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Rust                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JavaScript               72 repos            █████████░░░░░░░░░░░░░░░░   36.92 % 
+TypeScript               44 repos            ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 
@@ -89,7 +51,7 @@ Lua                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 19:38:30 UTC
+ Last Updated on 16/09/2025 19:37:36 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
