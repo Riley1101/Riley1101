@@ -36,42 +36,6 @@ An inspiring dev who love problem solving, coding and design.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6093 commits        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-🌆 Daytime                10729 commits       █████████░░░░░░░░░░░░░░░░   35.95 % 
-🌃 Evening                10743 commits       █████████░░░░░░░░░░░░░░░░   36.00 % 
-🌙 Night                  2279 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   4422 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Tuesday                  4974 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                4087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 3701 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Friday                   5877 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Saturday                 3905 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Sunday                   2878 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,7 +53,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 19:36:05 UTC
+ Last Updated on 20/09/2025 19:31:09 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
