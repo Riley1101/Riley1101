@@ -20,13 +20,15 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2020%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 637 Contributions in the Year 2025
+> 🏆 639 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,6 +36,42 @@ An inspiring dev who love problem solving, coding and design.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6090 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+🌆 Daytime                10724 commits       █████████░░░░░░░░░░░░░░░░   35.93 % 
+🌃 Evening                10749 commits       █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌙 Night                  2280 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   4420 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  4972 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Wednesday                4084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Thursday                 3699 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Friday                   5879 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Saturday                 3909 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Sunday                   2880 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -51,7 +89,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 19:34:55 UTC
+ Last Updated on 29/09/2025 19:39:11 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
