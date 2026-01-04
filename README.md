@@ -20,6 +20,8 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2031%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.11%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -34,6 +36,42 @@ An inspiring dev who love problem solving, coding and design.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6166 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+🌆 Daytime                10817 commits       █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌃 Evening                10781 commits       █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌙 Night                  2288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   4468 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  5005 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Wednesday                4083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 3738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Friday                   5922 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Saturday                 3953 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Sunday                   2883 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -51,7 +89,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:57:28 UTC
+ Last Updated on 04/01/2026 18:57:48 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
