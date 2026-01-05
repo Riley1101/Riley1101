@@ -20,15 +20,15 @@ An inspiring dev who love problem solving, coding and design.
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.11%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,7 +41,7 @@ An inspiring dev who love problem solving, coding and design.
 ```text
 🌞 Morning                6166 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 🌆 Daytime                10817 commits       █████████░░░░░░░░░░░░░░░░   35.99 % 
-🌃 Evening                10781 commits       █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌃 Evening                10782 commits       █████████░░░░░░░░░░░░░░░░   35.88 % 
 🌙 Night                  2288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -53,7 +53,7 @@ Wednesday                4083 commits        ███░░░░░░░░�
 Thursday                 3738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 Friday                   5922 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 Saturday                 3953 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   2883 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Sunday                   2884 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 
@@ -89,7 +89,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Riley1101/Riley1101/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:57:48 UTC
+ Last Updated on 05/01/2026 19:02:43 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Riley1101)](https://git.io/streak-stats)
